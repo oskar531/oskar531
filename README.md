@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Oskar!;" />
 </h1>
 
-<p align="center">I am a Sr,Mobile developer</p>
+<p align="center">I am a Sr,Mobile & Web developer</p>
 <p align="center">Here you can see my developments!</p>
 
 <div align="center"> 
