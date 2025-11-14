@@ -50,7 +50,7 @@
   </a>
    &ensp;
    <a href="https://github.com/oskar531">
-    <img src="https://skillicons.dev/icons?i=flutter,java,spring,git,aws,react,html,css,mysql,postgres,docker,kubernetes,rabbitmq,redis,idea,postman,obsidian&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,java,spring,git,aws,react,next,html,css,mysql,postgres,docker,kubernetes,rabbitmq,redis,idea,postman,obsidian&perline=6" />
   </a>
 </div>
 
